@@ -25,8 +25,6 @@ git clone https://github.com/669830/calculator.git
 ```
 2. Open `index.html` in your browser
 
-No installs, no dependencies — just open and use.
-
 ## Tech Stack
 
 - HTML
